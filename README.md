@@ -1,9 +1,7 @@
-### Hi there, I am Srivats Venkataraman 👋
+A junior at California State University Los Angeles. Persuing a degree in computer science.
 
-- 🔭 I’m currently volunteering as a Android Application Developer at Bright Mind Enrichment and Schooling.
-I love developing apps using the Flutter Framework, I have experience also developing react applications.
-<!--
-**srivats22/srivats22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in Mobile App Development and Website Development.
 
-Here are some ideas to get you started:
--->
+I have also have intrests in Machine Learning and Artificial Inteligence.
+
+Here is my [Portfolio](srivats22.web.app)
