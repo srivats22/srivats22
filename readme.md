@@ -13,9 +13,10 @@
 
 <span>
 
-  <a href="https://www.instagram.com/srivats_22/" target="_blank">![Instagram](https://img.shields.io/badge/Srivats_22-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+  <a href="https://www.instagram.com/srivats22/" target="_blank">![Instagram](https://img.shields.io/badge/Srivats22-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/srivatsvenk/" target="_blank">![LinkedIn](https://img.shields.io/badge/SrivatsVenk-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.youtube.com/channel/UCc32pNb8rUT6jY_BYDJF33g" target="_blank">![YouTube](https://img.shields.io/badge/Srivats-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+  <a href="https://www.tiktok.com/@srivats22">![TikTok](https://img.shields.io/badge/srivats22-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
 
 </span>
 
