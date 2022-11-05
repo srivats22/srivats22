@@ -1,6 +1,6 @@
 <h1 align="center">Srivats Venkataraman</h1>
 
-<h2 align="center">4th Year Computer Science Major</h2>
+<h2 align="center">Software Developer at Farmers Insurance</h2>
 <h2 align="center">Main Interest: Mobile Application Development</h2>
 
 <div align="center">
